@@ -1,0 +1,18 @@
+QUESTION 1
+
+        HTTP1.1                                                     HTTP2
+* It is slow when compare to all other HTTP           |       * It is much faster and more  reliable than HTTP1.
+versions but its reliable.                            |
+*It loads for every single request for every          |       * HTTP2 is multiplexing over a single connection.
+TCP connection.                                       |
+*It is a network delay sensitive protocol             |       * It avoid the network delay.
+ that sense if there is less network delay            |
+ the it loads faster.
+ 
+ 
+ QUESTION 2
+  It is like a objects in javascript may be a unordered collection of data 
+  of the primitive or reference type in the form of "key value" pairs,where
+  these keys can be variable or function and are called properties and 
+  methods,respectively,in the context of an object.
+ 
